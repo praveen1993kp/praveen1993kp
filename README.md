@@ -1,4 +1,4 @@
-[![MasterHead](https://chercher.tech/images/robot-framework/automation-testing-image.jpg)]
+![MasterHead](https://miro.medium.com/max/1400/1*panuLBsXTjypTQ_kwF2FWg.png)
 <h1 align="center">Hi 👋, I'm Praveen Krishnamoorthy</h1>
 <h3 align="center">An exuberant Automation Test Engineer from India</h3>
 
