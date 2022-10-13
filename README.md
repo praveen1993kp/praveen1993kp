@@ -1,10 +1,10 @@
-![MasterHead](https://miro.medium.com/max/1400/1*panuLBsXTjypTQ_kwF2FWg.png)
 <h1 align="center">Hi 👋, I'm Praveen Krishnamoorthy</h1>
 <h3 align="center">An exuberant Automation Test Engineer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*panuLBsXTjypTQ_kwF2FWg.png">
 
 - 🔭 I’m currently working on **UI and Backend Automation**
 
-- 🌱 I’m currently learning **Kubernetes, Microservices**
+- 🌱 I’m currently learning **Microservices,Kubernetes**
 
 - 👯 I’m looking to collaborate on **Data Structures and Algorithms**
 
